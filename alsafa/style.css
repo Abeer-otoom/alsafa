@@ -1,0 +1,164 @@
+body
+{
+	margin: 0;
+	font: 15px/20px sans-serif;
+}
+#main
+{
+	text-align: center;
+	background-color: #013765;
+	padding: 15px;
+	color: white;
+}
+nav
+{   float: right;
+	margin-right: 100px;
+
+}
+ nav a 
+{
+	text-decoration: none;
+	padding: 30px;
+	color: #808080;
+	
+	
+}
+.clear
+{
+	clear: both;
+}
+.line 
+{
+    border-right:1px solid #808080;
+    height: 30px;
+}
+#logo
+{   
+	margin-left: 90px;
+
+}
+.header
+{
+	margin-top: 20px;
+}
+.button
+{
+	background-color: #013765;
+	color: white;
+	text-align: center;
+	border-radius: 90px;
+	padding: 10px;
+	padding-right:20px;
+
+
+}
+.input {
+ 
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+.product
+{
+	text-align: center;
+	font-size: 29px;
+
+}
+
+.hr1
+{
+	float: left;
+	width: 36%;
+	margin: 10px;
+	padding-right: 20px;
+}
+.hr2
+{
+	float: right;
+	width: 36%;
+	margin: 10px;
+
+}
+.p1
+{
+	text-align: center;
+
+}
+.color
+{
+	color: #013765;
+}
+.border
+{
+	border: 1px solid #d8d8d8;
+}
+.c1
+{
+   float: left;
+   border: 1px solid #d8d8d8;
+   text-align: center;
+   margin-bottom: 80px;
+   
+
+}
+.top
+{
+	border-top: 1px solid #d8d8d8;
+	
+}
+.space
+{
+	text-align: center;
+	font-size: 40px;
+
+}
+.A1
+{
+   margin: 100px;
+}
+tr a
+{
+	text-decoration: none;
+	color: #013765;
+}
+.sale
+{
+	border:1px solid #d8d8d8;;
+}
+.brand
+{
+	color: #494949;
+	background-color: #f6f6f6;
+	margin-top: 30px;
+	padding-top: 20px;
+	font-size: 20px;
+}
+.mrg
+{
+	margin: 30px;
+}
+footer
+{
+	background-color:#2b2e32;
+	text-align: left;
+	padding-top: 20px;
+	color: white;
+	font-style: normal;
+	text-transform: uppercase;
+	
+
+}
+footer th
+{
+	padding-left: 20px;
+}
+.foot
+{
+	background-color: #1d1f22;
+	color:white;
+	text-align: center;
+    padding-top: 30px;
+    padding-left: 0;
+
+}
